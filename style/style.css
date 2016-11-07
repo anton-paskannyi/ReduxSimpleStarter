@@ -1,0 +1,18 @@
+form a {
+  margin-left: 10px;
+}
+
+.has-danger .text-help {
+  color: #d9534f;
+}
+
+.posts-list {
+  margin-top: 40px;
+}
+
+.posts-wrapper,
+.form,
+.post-wrapper,
+.post-title {
+  margin-top: 20px;
+}
